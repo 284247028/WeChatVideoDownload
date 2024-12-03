@@ -9,7 +9,7 @@ using System.Web;
 using System.Security.Policy;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace 视频号视频下载工具
+namespace finder
 {
 
 

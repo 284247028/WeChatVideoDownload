@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace 视频号视频下载工具
+namespace finder
 {
 
 

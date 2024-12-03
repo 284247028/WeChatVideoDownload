@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace 视频号视频下载工具
+namespace finder
 {
     internal static class WeChatHelper
     {

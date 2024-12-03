@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Configuration;
 using System.Configuration;
 
-namespace 视频号视频下载工具
+namespace finder
 {
     internal static class Program
     {

@@ -13,7 +13,7 @@ using System.Web;
 using System.Windows.Forms;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace 视频号视频下载工具
+namespace finder
 {
     public partial class Form1 : Form
     {

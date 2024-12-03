@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using Telerik.NetworkConnections.Windows;
 using static System.Collections.Specialized.BitVector32;
 
-namespace 视频号视频下载工具
+namespace finder
 {
 
     public class NetworkSniffer

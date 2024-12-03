@@ -9,7 +9,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace 视频号视频下载工具
+namespace finder
 {
     public class VideoDownloader
     {

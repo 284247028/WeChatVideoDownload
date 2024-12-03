@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace 视频号视频下载工具
+namespace finder
 {
     public class VideoDataEventArgs : EventArgs
     {
